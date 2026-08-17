@@ -11,3 +11,6 @@ This project explores commodity prices across Nigerian markets, uncovering price
  - Total Price In Dollar
  - Average Price In Naira
  - Average Price In Dollar
+## DASHBOARD
+<a href="https://github.com/Jaf-analyst/Nigerian-Food-Prices-Analysis/blob/main/FP%20D1.png">viewDasboard</a>
+<a href="https://github.com/Jaf-analyst/Nigerian-Food-Prices-Analysis/blob/main/FP%20D2.png">viewDasboard</a>
