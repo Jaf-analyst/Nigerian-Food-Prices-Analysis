@@ -9,5 +9,5 @@ This project explores commodity prices across Nigerian markets, uncovering price
  - Total States
  - Total Price In Naira
  - Total Price In Dollar
- - Average Commodity Price In Naira
- - Average Commodity Price In Dollar
+ - Average Price In Naira
+ - Average Price In Dollar
