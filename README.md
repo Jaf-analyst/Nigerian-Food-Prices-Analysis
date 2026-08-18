@@ -21,7 +21,7 @@ This project explores commodity prices across Nigerian markets, uncovering price
 <img width="1136" height="613" alt="FP D1" src="https://github.com/user-attachments/assets/8cbee319-b58c-4870-b8b7-2cea3f1f91b2" />
 <img width="1075" height="608" alt="FP D2" src="https://github.com/user-attachments/assets/2f32a9db-cef5-49a4-8b2a-18de1ccec1f1" />
 
-##Executive Summary 
+## Executive Summary 
 > Borno state has the widest market coverage, making it a key region.
 > At the market level, Ibadan recorded the highest commodity price while Bolari store in Borno recorded the lowest, highlighting considerable regional differences in commodity pricing and accessibility.
 › Among the commodities analyzed, groundnuts, rice, and white cowpeas recorded the highest market prices, with groundnuts leading the category. In contrast, beans recorded the lowest total market value at approximately #4.14K. indicating a substantial price gap across commodities.
