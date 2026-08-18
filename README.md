@@ -22,21 +22,21 @@ This project explores commodity prices across Nigerian markets, uncovering price
 <img width="1075" height="608" alt="FP D2" src="https://github.com/user-attachments/assets/2f32a9db-cef5-49a4-8b2a-18de1ccec1f1" />
 
 ## Executive Summary 
-> Borno state has the widest market coverage, making it a key region.
-> At the market level, Ibadan recorded the highest commodity price while Bolari store in Borno recorded the lowest, highlighting considerable regional differences in commodity pricing and accessibility.
-› Among the commodities analyzed, groundnuts, rice, and white cowpeas recorded the highest market prices, with groundnuts leading the category. In contrast, beans recorded the lowest total market value at approximately #4.14K. indicating a substantial price gap across commodities.
-> Price movements also show notable seasonal volatility.
+- Borno state has the widest market coverage, making it a key region.
+- At the market level, Ibadan recorded the highest commodity price while Bolari store in Borno recorded the lowest, highlighting considerable regional differences in commodity pricing and accessibility.
+- Among the commodities analyzed, groundnuts, rice, and white cowpeas recorded the highest market prices, with groundnuts leading the category. In contrast, beans recorded the lowest total market value at approximately #4.14K. indicating a substantial price gap across commodities.
+- Price movements also show notable seasonal volatility.
 July recorded the highest inflation rate at 18.54%, with the average commodity price rising to approximately N6.1K.
 Conversely, February recorded the lowest rate at -15.45%, bringing the average price down to approximately #4.3K.
 This decline suggests a period of easing commodity prices, potentially reflecting improved post-holiday supply and demand conditions.
-› At the national level, 2022 recorded the most significant increase in food prices within the period analyzed, with average commodity prices rising from approximately N5.13K to #10.6K. This highlights 2022 as a particularly challenging period for food affordability and reinforces the need to monitor commodity-level and regional price movements closely.
-›› Overall, the findings point to substantial regional. commodity, and seasonal price disparities, suggesting that market location, commodity type, and timing are important factors influencing food price movements.
+- At the national level, 2022 recorded the most significant increase in food prices within the period analyzed, with average commodity prices rising from approximately N5.13K to #10.6K. This highlights 2022 as a particularly challenging period for food affordability and reinforces the need to monitor commodity-level and regional price movements closely.
+- Overall, the findings point to substantial regional. commodity, and seasonal price disparities, suggesting that market location, commodity type, and timing are important factors influencing food price movements.
 
 ## Key Insights 
-> Borno has the most market coverage
-> Bolari Store offers the cheapest commodity prices while Ibadan offers the highest.
-> Commodity prices hits its lowest in February and peaked in July:
-> 2022 is the major food-price shock.
+- Borno has the most market coverage
+- Bolari Store offers the cheapest commodity prices while Ibadan offers the highest.
+- Commodity prices hits its lowest in February and peaked in July:
+- 2022 is the major food-price shock.
 
 
 
